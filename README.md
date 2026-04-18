@@ -1,4 +1,6 @@
 # Classification
+[![Tests](https://github.com/albertvankiel/classification/actions/workflows/tests.yml/badge.svg)](https://github.com/albertvankiel/classification/actions/workflows/tests.yml)
+
 Lightweight zero-dependency text classification library for PHP 8.1+.
 
 This package provides an implementation of the Naive Bayes algorithm for text classification, sentiment analysis and spam filtering.
