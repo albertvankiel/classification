@@ -1,0 +1,16 @@
+# Composer dependencies
+/vendor/
+# PHPUnit test artifacts and cache
+.phpunit.result.cache
+phpunit.xml.dist
+# IDE and OS specific files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+# Any temporary model files or test datasets you might generate locally
+*.log
+*.tmp
+/tests/temp/
+# Ignore lock file for libraries/packages
+composer.lock
